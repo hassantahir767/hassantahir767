@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [www.hassan-tahir.com](www.hassan-tahir.com)
 
-- 📫 How to reach me **hassantahir0000@gmail.com**
+- 📫 How to reach me **hassan.tahir@stixor.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
