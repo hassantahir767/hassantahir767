@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hassan Tahir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassantahir787&label=Profile%20views&color=0e75b6&style=flat" alt="hassantahir787" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassantahir787" alt="hassantahir787" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/hassantahir787" target="blank"><img src="https://img.shields.io/twitter/follow/hassantahir787?logo=twitter&style=for-the-badge" alt="hassantahir787" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [www.hassan-tahir.com](www.hassan-tahir.com)
-
 - 📫 How to reach me **hassan.tahir@stixor.com**
 
 <h3 align="left">Connect with me:</h3>
